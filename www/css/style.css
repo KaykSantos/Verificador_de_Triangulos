@@ -1,2 +1,12 @@
-/**/
-
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: arial;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(108, 108, 250);
+}
+button{
+    color: black;
+}
